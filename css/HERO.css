@@ -9,7 +9,9 @@ header{
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
-
+h1, h2{
+	font-family: 'Syne', sans-serif;
+}
 header h1{
 	color: white;
 
